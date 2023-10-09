@@ -2,9 +2,9 @@
 using namespace std;
 
 
-void PrintLine()
-{
-}
+/*
+write a program print the multiplication table from 1 to 10
+*/
 
 void printTableHeader()
 {
